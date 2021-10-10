@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="asteroid_list_item_padding">16dp</dimen>
+    <dimen name="asteroid_list_item_codename_text_size">20sp</dimen>
+    <dimen name="asteroid_list_item_date_text_size">16sp</dimen>
+    <dimen name="asteroid_date_padding">8dp</dimen>
+    <dimen name="asteroid_status_width">40dp</dimen>
+    <dimen name="asteroid_status_height">40dp</dimen>
+    <dimen name="image_height">220dp</dimen>
+    <dimen name="padding">16dp</dimen>
+</resources>
